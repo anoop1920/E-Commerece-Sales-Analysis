@@ -21,13 +21,13 @@
 -[Excel Dashboard](https://github.com/anoop1920/E-Commerece-Sales-Analysis/blob/master/Visualization/E-Commerece%20project_Excel_%20Dashboard.xlsx)
 ---
 ## Presentation of the analysis:
--[presentation](https://github.com/anoop1920/E-Commerece-Sales-Analysis/blob/master/Visualization/SQL%20E-Commerece%20%20Project%20ppt%20(1).pptx)
+-[Presentation](https://github.com/anoop1920/E-Commerece-Sales-Analysis/blob/master/Visualization/SQL%20E-Commerece%20%20Project%20ppt%20(1).pptx)
 ---
 ## Key Insights:
-- 1. Lowest performing states do not have sellers from their own states so the delivery time is increased which affects customer satisfaction.So theres need to increase sellers in each state.
-- 2. In recent months of 2018 lead Delivery time has gone in negative even for high performing states which in turn causes low coustomer acqusition and may lead to losing of customers.
-- 3. Max undelivered orders had credit card as payment type followed by boleto then vouchers.So they can check the system.
-- 4. Most of states most ordered product is not delivered from same state.So need to find sellers for that particular product in same states.
-- 5. Ramiro  lowest performing state has average reply time for complaint of 198 hours whereas other states its around 35-70 hours.Also other state AP has overall average reply time of 104 hours whereas others have of about 75-90 which is also high.Replying time to complaints as well as other reviews must be reduced.
-- 6. Most sequentials are paid in vouchers with most of customers opting for 2 sequentials.
-- 7. Most of top selling products have large description so, tell sellers to add description to their products.
+- Lowest performing states do not have sellers from their own states so the delivery time is increased which affects customer satisfaction.So theres need to increase sellers in each state.
+- In recent months of 2018 lead Delivery time has gone in negative even for high performing states which in turn causes low coustomer acqusition and may lead to losing of customers.
+- Max undelivered orders had credit card as payment type followed by boleto then vouchers.So they can check the system.
+- Most of states most ordered product is not delivered from same state.So need to find sellers for that particular product in same states.
+- Ramiro  lowest performing state has average reply time for complaint of 198 hours whereas other states its around 35-70 hours.Also other state AP has overall average reply time of 104 hours whereas others have of about 75-90 which is also high.Replying time to complaints as well as other reviews must be reduced.
+- Most sequentials are paid in vouchers with most of customers opting for 2 sequentials.
+- Most of top selling products have large description so, tell sellers to add description to their products.
